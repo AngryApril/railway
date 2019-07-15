@@ -1,0 +1,7 @@
+Cargo,93417,70003,Cargo,0,1200,Platform,
+10001,Locomotive,3,900,10000.00,70001,Passenger,0,1200,Platform,
+70002,Cargo,0,1200,Tanker,
+70004,Passenger,0,1200,Tanker,
+70005,Passenger,0,1200,Tanker,
+70006,Passenger,0,1200,Platform,70078,Cargo,0,1000,TANKER,
+12345,Locomotive,3,800,9000.0

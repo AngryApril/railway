@@ -1,0 +1,6 @@
+345x,Passenger,54,120,THIRD,
+,Locomotive,0,900,10000.00,wd,Passenger,36,120,SECOND,
+-23,Passenger,18,120,FIRST,
+#$@%^&,Passenger,36,120,SECOND,
+Passenger,54,120,THIRD,
+7.2,Passenger,72,120,FOURTH,7.2,Cargo,0,10000,TANKER,
